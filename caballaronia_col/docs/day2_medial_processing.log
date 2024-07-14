@@ -1,0 +1,125 @@
+Summary for sample: 5-L2_D2-1_GAOX1-dTOM_medial_11-_0
+Optimal window size: 16
+Calcualted overhang: 15
+Window size distirbution: [17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
+
+Summary for sample: 5-L2_D2-1_GAOX1-dTOM_medial_11-_1
+Optimal window size: 18
+Calcualted overhang: 14
+Window size distirbution: [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+
+Summary for sample: 5-L2_D2-1_GAOX1-dTOM_medial_11-_2
+Optimal window size: 18
+Calcualted overhang: 10
+Window size distirbution: [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+
+Summary for sample: 5-L2_D2-1_GAOX1-dTOM_medial_11-_3
+Optimal window size: 18
+Calcualted overhang: 2
+Window size distirbution: [19, 19, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+
+Summary for sample: 5-L2_D2-1_GAOX1-dTOM_medial_11-_4
+Optimal window size: 24
+Calcualted overhang: 15
+Window size distirbution: [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+
+Summary for sample: 31-L3_D2_GAOX1-dTOM_RFP_MedialM_0
+Optimal window size: 13
+Calcualted overhang: 2
+Window size distirbution: [14, 14, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+
+Summary for sample: 31-L3_D2_GAOX1-dTOM_RFP_MedialM_1
+Optimal window size: 13
+Calcualted overhang: 15
+Window size distirbution: [14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+
+Summary for sample: 31-L3_D2_GAOX1-dTOM_RFP_MedialM_2
+Optimal window size: 14
+Calcualted overhang: 18
+Window size distirbution: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 14, 14, 14, 14, 14, 14, 14]
+
+Summary for sample: 31-L3_D2_GAOX1-dTOM_RFP_MedialM_3
+Optimal window size: 15
+Calcualted overhang: 3
+Window size distirbution: [16, 16, 16, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+
+Summary for sample: 31-L3_D2_GAOX1-dTOM_RFP_MedialM_4
+Optimal window size: 13
+Calcualted overhang: 16
+Window size distirbution: [14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+
+Summary for sample: 9-L2_D2_GAOX1-dTOM_medial_11-9_0
+Optimal window size: 20
+Calcualted overhang: 7
+Window size distirbution: [21, 21, 21, 21, 21, 21, 21, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+
+Summary for sample: 9-L2_D2_GAOX1-dTOM_medial_11-9_1
+Optimal window size: 18
+Calcualted overhang: 5
+Window size distirbution: [19, 19, 19, 19, 19, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+
+Summary for sample: 9-L2_D2_GAOX1-dTOM_medial_11-9_2
+Optimal window size: 16
+Calcualted overhang: 5
+Window size distirbution: [17, 17, 17, 17, 17, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
+
+Summary for sample: 9-L2_D2_GAOX1-dTOM_medial_11-9_3
+Optimal window size: 14
+Calcualted overhang: 17
+Window size distirbution: [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 14, 14, 14, 14, 14, 14, 14, 14]
+
+Summary for sample: 9-L2_D2_GAOX1-dTOM_medial_11-9_4
+Optimal window size: 20
+Calcualted overhang: 4
+Window size distirbution: [21, 21, 21, 21, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+
+Summary for sample: 29-L2_D2_GAOX1-dTOM_rfp_medial__0
+Optimal window size: 10
+Calcualted overhang: 6
+Window size distirbution: [11, 11, 11, 11, 11, 11, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+
+Summary for sample: 29-L2_D2_GAOX1-dTOM_rfp_medial__1
+Optimal window size: 10
+Calcualted overhang: 24
+Window size distirbution: [11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 10]
+
+Summary for sample: 29-L2_D2_GAOX1-dTOM_rfp_medial__2
+Optimal window size: 11
+Calcualted overhang: 0
+Window size distirbution: [11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11]
+
+Summary for sample: 29-L2_D2_GAOX1-dTOM_rfp_medial__3
+Optimal window size: 11
+Calcualted overhang: 1
+Window size distirbution: [12, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11]
+
+Summary for sample: 29-L2_D2_GAOX1-dTOM_rfp_medial__4
+Optimal window size: 10
+Calcualted overhang: 20
+Window size distirbution: [11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 10, 10, 10, 10, 10]
+
+Summary for sample: 4-L2_D2-2_GAOX1-dTOM_medial_11-_0
+Optimal window size: 24
+Calcualted overhang: 1
+Window size distirbution: [25, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+
+Summary for sample: 4-L2_D2-2_GAOX1-dTOM_medial_11-_1
+Optimal window size: 20
+Calcualted overhang: 17
+Window size distirbution: [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 20, 20, 20, 20, 20, 20, 20, 20]
+
+Summary for sample: 4-L2_D2-2_GAOX1-dTOM_medial_11-_2
+Optimal window size: 20
+Calcualted overhang: 15
+Window size distirbution: [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+
+Summary for sample: 4-L2_D2-2_GAOX1-dTOM_medial_11-_3
+Optimal window size: 20
+Calcualted overhang: 18
+Window size distirbution: [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 20, 20, 20, 20, 20, 20, 20]
+
+Summary for sample: 4-L2_D2-2_GAOX1-dTOM_medial_11-_4
+Optimal window size: 20
+Calcualted overhang: 16
+Window size distirbution: [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+

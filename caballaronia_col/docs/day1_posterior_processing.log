@@ -1,0 +1,50 @@
+Summary for sample: 14-L2-1_D1_GAOX1_RFP_posterior_9_0
+Optimal window size: 6
+Calcualted overhang: 22
+Window size distirbution: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6]
+
+Summary for sample: 14-L2-1_D1_GAOX1_RFP_posterior_9_1
+Optimal window size: 7
+Calcualted overhang: 1
+Window size distirbution: [8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+
+Summary for sample: 14-L2-1_D1_GAOX1_RFP_posterior_9_2
+Optimal window size: 6
+Calcualted overhang: 24
+Window size distirbution: [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6]
+
+Summary for sample: 14-L2-1_D1_GAOX1_RFP_posterior_9_3
+Optimal window size: 8
+Calcualted overhang: 3
+Window size distirbution: [9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
+
+Summary for sample: 14-L2-1_D1_GAOX1_RFP_posterior_9_4
+Optimal window size: 8
+Calcualted overhang: 20
+Window size distirbution: [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8]
+
+Summary for sample: 17-L2_D1_GAOX1_RFP_posterior_8-3_0
+Optimal window size: 12
+Calcualted overhang: 3
+Window size distirbution: [13, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]
+
+Summary for sample: 17-L2_D1_GAOX1_RFP_posterior_8-3_1
+Optimal window size: 12
+Calcualted overhang: 7
+Window size distirbution: [13, 13, 13, 13, 13, 13, 13, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12]
+
+Summary for sample: 17-L2_D1_GAOX1_RFP_posterior_8-3_2
+Optimal window size: 11
+Calcualted overhang: 19
+Window size distirbution: [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 11, 11, 11, 11, 11, 11]
+
+Summary for sample: 17-L2_D1_GAOX1_RFP_posterior_8-3_3
+Optimal window size: 11
+Calcualted overhang: 11
+Window size distirbution: [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11]
+
+Summary for sample: 17-L2_D1_GAOX1_RFP_posterior_8-3_4
+Optimal window size: 11
+Calcualted overhang: 4
+Window size distirbution: [12, 12, 12, 12, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11]
+
